@@ -10,7 +10,7 @@
 
 ## 模块
 *   `std:rnd`: 提供生成随机数的功能。
-    *   `std:rnd/rnd`: 生成一个范围在 0..(#param common -1)之间的随机数，储存在(#result common)。注意(#param common)范围只能为 1..1000000000。
+    *   `std:rnd/rnd`: 生成一个范围在 0..(#param common -1)之间的随机数，储存在(#result common)。注意(#param common)范围只能为 2..1000000000。
 
 # Update log
 * 24-1-2018: fixed typo, added link
